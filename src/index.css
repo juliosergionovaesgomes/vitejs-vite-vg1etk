@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "SoulcraftGX";
+  src: local("SoulcraftGX"),
+    url("./assets/fonts/soulcraftgx.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Faible";
+  src: local("Faible"),
+    url("./assets/fonts/FaibleTest-Black.otf") format("truetype");
+  font-weight: bold;
+}
